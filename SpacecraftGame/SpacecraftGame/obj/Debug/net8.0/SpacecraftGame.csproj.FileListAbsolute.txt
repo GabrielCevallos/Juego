@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\bin\Debug\net8.0\SpacecraftGame.exe
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\bin\Debug\net8.0\SpacecraftGame.deps.json
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\bin\Debug\net8.0\SpacecraftGame.runtimeconfig.json
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\bin\Debug\net8.0\SpacecraftGame.dll
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\bin\Debug\net8.0\SpacecraftGame.pdb
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\SpacecraftGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\SpacecraftGame.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\SpacecraftGame.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\SpacecraftGame.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\SpacecraftGame.dll
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\refint\SpacecraftGame.dll
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\SpacecraftGame.pdb
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\SpacecraftGame.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Escritorio\VisualStudio\SpacecraftGame\SpacecraftGame\obj\Debug\net8.0\ref\SpacecraftGame.dll

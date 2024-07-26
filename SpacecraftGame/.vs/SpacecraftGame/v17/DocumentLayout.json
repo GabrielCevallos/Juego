@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|c:\\users\\gabri\\onedrive\\escritorio\\visualstudio\\spacecraftgame\\spacecraftgame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|solutionrelative:spacecraftgame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|c:\\users\\gabri\\onedrive\\escritorio\\visualstudio\\spacecraftgame\\spacecraftgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|solutionrelative:spacecraftgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|c:\\users\\gabri\\onedrive\\escritorio\\visualstudio\\spacecraftgame\\spacecraftgame\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|solutionrelative:spacecraftgame\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|c:\\users\\gabri\\onedrive\\escritorio\\visualstudio\\spacecraftgame\\spacecraftgame\\spacecraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|solutionrelative:spacecraftgame\\spacecraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|c:\\users\\gabri\\onedrive\\escritorio\\visualstudio\\spacecraftgame\\spacecraftgame\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA3D18-61DF-46F6-9715-193406927071}|SpacecraftGame\\SpacecraftGame.csproj|solutionrelative:spacecraftgame\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Enemy.cs",
+              "RelativeDocumentMoniker": "SpacecraftGame\\Enemy.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Enemy.cs",
+              "RelativeToolTip": "SpacecraftGame\\Enemy.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwDIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:25:07.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Bullet.cs",
+              "RelativeDocumentMoniker": "SpacecraftGame\\Bullet.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Bullet.cs",
+              "RelativeToolTip": "SpacecraftGame\\Bullet.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:22:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spacecraft.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Spacecraft.cs",
+              "RelativeDocumentMoniker": "SpacecraftGame\\Spacecraft.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Spacecraft.cs",
+              "RelativeToolTip": "SpacecraftGame\\Spacecraft.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwMwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:13:07.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Window.cs",
+              "RelativeDocumentMoniker": "SpacecraftGame\\Window.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Window.cs",
+              "RelativeToolTip": "SpacecraftGame\\Window.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswDEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:32:45.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Program.cs",
+              "RelativeDocumentMoniker": "SpacecraftGame\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\VisualStudio\\SpacecraftGame\\SpacecraftGame\\Program.cs",
+              "RelativeToolTip": "SpacecraftGame\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:28:14.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
