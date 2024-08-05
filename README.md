@@ -4,7 +4,7 @@ Realizado por Gabriel Ricardo Cevallos Medina - 2do "A" - Computación - UNL
 
 EL presente diagrama de clases se ha implementado en un lenguaje de programación, cuyo código fuente se encuentra en la rama "develop" de este repositorio.
 
-Al acceder a dicha rama, entraremos en la capeta "SpacecraftGame", dentro de la cual encontraremos otra carpeta con el mismo nombre y al acceder a ella, se presentarán los archivos con el código fuente correspondiente a cada clase creada para el juego, los archivos tienen la extension ".cs", como se encuentra a continuación:
+Al acceder a dicha rama, entraremos en la capeta "SpacecraftGame", dentro de la cual encontraremos otra carpeta con el mismo nombre y al entrar en ella, se presentarán los archivos con el código fuente correspondiente a cada clase creada para el juego, los archivos tienen la extension ".cs", como se encuentra a continuación:
 
 ![image](https://github.com/user-attachments/assets/ec5822ec-9101-45c2-9cb6-8bdfbad76822)
 
