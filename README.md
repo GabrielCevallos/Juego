@@ -1,5 +1,7 @@
 # Repositorio para el diagrama de clases e implementación en C# de un juego
 Realizado por Gabriel Ricardo Cevallos Medina - 2do "A" - Computación - UNL
+
+* Diagrama de Clases.
 ![image](https://github.com/user-attachments/assets/17e4f34a-671b-4bc1-95bc-b8e44a978700)
 
 EL presente diagrama de clases se ha implementado en un lenguaje de programación, cuyo código fuente se encuentra en la rama "develop" de este repositorio.
