@@ -7,3 +7,6 @@ EL presente diagrama de clases se ha implementado en un lenguaje de programació
 Al acceder a dicha rama, entraremos en la capeta "SpacecraftGame", dentro de la cual encontraremos otra carpeta con el mismo nombre y al acceder a ella, se presentarán los archivos con el código fuente correspondiente a cada clase creada para el juego, los archivos tienen la extension ".cs", como se encuentra a continuación:
 
 ![image](https://github.com/user-attachments/assets/ec5822ec-9101-45c2-9cb6-8bdfbad76822)
+
+# Nota:
+El archivo con el nombre "Program.cs" es el programa principal o que se conoce como "main".
